@@ -1,6 +1,5 @@
 # Silakka54 – VIAL Keymap Config
 
-![Silakka54 Layout](./silakka54-layout.png)
 
 Custom keymap configuration for the **Silakka54** split keyboard using VIAL.  
 Designed for daily use, coding, and general productivity.
