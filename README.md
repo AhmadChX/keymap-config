@@ -6,26 +6,6 @@ Designed for daily use, coding, and general productivity.
 
 ---
 
-## Layers
-
-### Layer 0 – Base
-- QWERTY-style alphas.
-- Modifiers and number row with symbols.
-
----
-
-### Layer 1 – Symbols & Functions
-- Function row (F1–F12).
-- Extended symbol access.
-
----
-
-### Layer 2 – Navigation
-- Arrow keys.
-- Minimal movement layout.
-
----
-
 ## Notes
 
 - Optimized for split ergonomic use with minimal hand travel.
