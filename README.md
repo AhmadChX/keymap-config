@@ -1,17 +1,19 @@
 # Silakka54 – VIAL Keymap Config
 
-
 Custom keymap configuration for the **Silakka54** split keyboard using VIAL.  
-Designed for daily use, coding, and general productivity.
+Tailored for daily work, coding, and general productivity.
 
 ---
 
 ## Notes
 
-- Optimized for split ergonomic use with minimal hand travel.
-- Layer toggles are designed for fast access.
-- Built for flexibility — layout will evolve as needs change.
-- I’ll continue refining this as I hit limitations or get new ideas.
+- Optimized for split ergonomic use with minimal hand movement.
+- Layer toggles are positioned for fast, intuitive switching.
+- Built to be flexible — layout will evolve as needs change.
+- I’ll keep refining this as I run into limits or new ideas.
+
+Two versions are available: `main` and `alt`.  
+I'm currently using `main` as the default.
 
 ---
 
