@@ -1,24 +1,24 @@
-# Silakka54 – VIAL Keymap Config
+# VIAL Keymap Config
 
-Custom keymap configuration for the **Silakka54** split keyboard using VIAL.  
+Custom keymap configuration for split keyboard using VIAL.  
 Tailored for daily work, coding, and general productivity.
 
 ---
 
 ## Notes
 
-- Optimized for split ergonomic use with minimal hand movement.
-- Layer toggles are positioned for fast, intuitive switching.
-- Built to be flexible — layout will evolve as needs change.
-- I’ll keep refining this as I run into limits or new ideas.
+Silakka54
 
 Two versions are available: `main` and `alt`.  
 I'm currently using `main` as the default.
 
+Halcyon Kyria
+
+Has One version
 ---
 
 ## How to Use
 
 1. Open the **VIAL** application.
 2. Go to `File > Load saved layout...`
-3. Select the **silakka54.vil** file from this repo.
+3. Select the file of which you want to use from this repo.
