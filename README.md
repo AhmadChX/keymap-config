@@ -1,20 +1,12 @@
 # VIAL Keymap Config
 
 Custom keymap configuration for split keyboard using VIAL.  
-Tailored for daily work, coding, and general productivity.
 
 ---
 
 ## Notes
+There is a config for **Halcyon Kyria** & **Silakka54**
 
-Silakka54
-
-Two versions are available: `main` and `alt`.  
-I'm currently using `main` as the default.
-
-Halcyon Kyria
-
-Has One version
 ---
 
 ## How to Use
